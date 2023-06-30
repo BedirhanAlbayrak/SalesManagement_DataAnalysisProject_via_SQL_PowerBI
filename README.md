@@ -1,4 +1,4 @@
-# SalesManagement_DataAnalysisProject_via_SQL_PowerBI
+# SalesManagement_DataAnalystProject_via_SQL_PowerBI
 # Business Request
 The business request for this data analysis project is to improve the sales reports for the sales manager. 
 
